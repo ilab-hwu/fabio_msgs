@@ -1,0 +1,9 @@
+# goal definition
+string interactant_id 
+string text
+string keyword
+---
+# result definition
+pnp_msgs/ActionResult[] result
+---
+# feedback

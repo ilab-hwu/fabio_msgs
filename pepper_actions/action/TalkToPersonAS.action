@@ -1,0 +1,12 @@
+# goal definition
+string id
+string text
+string at
+---
+# result definition
+int32 UNKNOWN=-1
+int32 FAILURE=0
+int32 SUCCESS=1
+int32 result
+---
+# feedback

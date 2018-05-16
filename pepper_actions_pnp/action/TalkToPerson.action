@@ -1,0 +1,9 @@
+# goal definition
+string id
+string text
+string at
+---
+# result definition
+pnp_msgs/ActionResult[] result
+---
+# feedback

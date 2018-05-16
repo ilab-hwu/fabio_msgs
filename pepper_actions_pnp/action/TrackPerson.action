@@ -1,0 +1,9 @@
+# goal definition
+string id
+string interactant_id
+bool no_turn
+---
+# result definition
+pnp_msgs/ActionResult[] result
+---
+# feedback
