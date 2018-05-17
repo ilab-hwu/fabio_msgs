@@ -1,0 +1,4 @@
+int32 id
+bool bAttention
+float64 dWillingnessProb
+float64 dAttentionProb
